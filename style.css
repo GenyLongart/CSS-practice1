@@ -56,7 +56,7 @@ body{
     width: 80%;
     height: 70%;
     background: rgba(211, 211, 211, 0.548);
-    border-radius: 4px;
+    border-radius: 20px;
     color: rgba(158, 5, 178, 0.525);
     display: flex;
     align-items: center;
